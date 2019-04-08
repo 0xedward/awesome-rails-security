@@ -132,7 +132,9 @@
 - [Attacking Ruby on Rails Applications](http://www.phrack.org/issues/69/12.html#article)
 - [The Evolution of Rails Security](https://speakerdeck.com/presidentbeef/the-evolution-of-rails-security)
 - [Rails Security: above and beyond the defaults](https://www.randomerrata.com/articles/2017/rails-security/)
-
+- [Fixing Command Injection Vulnerabilities in Ruby/Rails](http://gavinmiller.io/2015/fixing-command-injection-vulnerabilities/)
+- [Fixing File Access Vulnerabilities in Ruby/Rails](http://gavinmiller.io/2015/fixing-file-access-vulnerabilities-in-ruby-and-rails/)
+- [Fixing SQL Injection Vulnerabilities in Ruby/Rails](http://gavinmiller.io/2015/fixing-sql-injection-vulnerabilities/)
 
 ## Reporting Bugs
 - [Ruby bug bounty program](https://hackerone.com/ruby)
