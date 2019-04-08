@@ -118,8 +118,10 @@
 - [Securing Ruby on Rails Web Applications](https://www.immun.io/hubfs/Immunio_2016/Content/Marketing/Securing_Ruby_on_Rails_Web_Applications_eBook.pdf)
 - [Ruby on Rails Web Application Vulnerabilities: How to Make Your App Secure](https://rubygarage.org/blog/ruby-on-rails-web-application-vulnerabilities-how-to-make-your-app-secure)
 - [Rails Security Strategy Book](https://bauland42.com/ruby-on-rails-security-strategy)
+- [Preproduction Security Checklist for a Rails App](https://blog.codeship.com/preproduction-checklist-for-a-rails-app/)
+- [Ruby on Rails Security Guide](https://sloboda-studio.com/blog/ruby-on-rails-security-guide/)
 
-### Anti-Patterns/Gotchas
+### Anti-Patterns
 - [Rails' Insecure Defaults](https://codeclimate.com/blog/rails-insecure-defaults/)
 - [The Inadequate Guide to Rails Security](https://www.honeybadger.io/blog/ruby-security-tutorial-and-rails-security-guide/)
 - [Rails SQL Injection Examples](https://rails-sqli.org/)
