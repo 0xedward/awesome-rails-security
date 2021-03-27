@@ -85,7 +85,7 @@
 - [ruby-security-ann](https://groups.google.com/forum/#!forum/ruby-security-ann) - Another mailing list to get security announcements for Ruby, Rails, Rubygems, Bundler, and other Ruby ecosystem projects
 - [Ruby-Lang - Security](https://www.ruby-lang.org/en/security/) - A newsfeed for security vulnerabilities in the Ruby programming language
 - [Synk - Vulnerability DB](https://snyk.io/vuln/?type=rubygems)
-
+- [GemScanner](https://github.com/Splint3r7/GemScanner) - GemScanner identifies depreciated versions of gems in your ruby on rails project.
 
 ## Resources
 
