@@ -69,7 +69,6 @@
 
 ### Static Code Analysis
 - [rails_best_practices](https://github.com/flyerhzm/rails_best_practices) - A code metric tool to check the quality of Rails code
-- [Hawkeye scanner-cli](https://github.com/hawkeyesec/scanner-cli) - A project security, vulnerability and general risk highlighting tool
 - [git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing passwords and other sensitive information to a git repository
 - [Snyk](https://snyk.io) - A developer-first solution that automates finding & fixing vulnerabilities in your dependencies
 - [GuardRails](https://www.guardrails.io/) - Continuous security feedback for your GitHub repositories
