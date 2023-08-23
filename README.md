@@ -101,7 +101,7 @@
 
 ### Best Practices
 - [rails-bestpractices.com](https://rails-bestpractices.com/) - A newsfeed of code snippets on what practices should and should not be done in Rails 
-- [OWASP - Ruby on Rails Cheatsheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Ruby_on_Rails_Cheatsheet.md) - A cheatsheet that intends to provide quick basic Ruby on Rails security tips for developers. It complements, augments or emphasizes points brought up in the rails security guide from rails core
+- [OWASP - Ruby on Rails Cheatsheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Ruby_on_Rails_Cheat_Sheet.md) - A cheatsheet that intends to provide quick basic Ruby on Rails security tips for developers. It complements, augments or emphasizes points brought up in the rails security guide from rails core
 - [Preventing security issues in Ruby on Rails (based on OWASP cheatsheet)](https://medium.com/kkempin/preventing-security-issues-in-ruby-on-rails-based-on-owasp-cheatsheet-2fbca18b6a85)
 - [OWASP - Ruby on Rails Security Guide](https://www.owasp.org/images/8/89/Rails_Security_2.pdf)
 - [secure_rails](https://github.com/ankane/secure_rails)
